@@ -5,9 +5,50 @@ Reading list for the newbie of DAI
 
 ### Machine Learning
 
+#### Book
+
+深度学习（花书）
+
+机器学习（西瓜书）
+
+#### MOOC
+
+Machine Learning Andrew NG Coursera
+
+Deep Learning Andrew NG Coursera
+
+CS231n
+
+1806 linear algebra
+
 ### Federated Learning
 
+#### Base
+
+#### Personalization
+
+Paper:
+
+- [Survey of Personalization Techniques for Federated Learning](https://arxiv.org/abs/2003.08673)
+- [Improving Federated Learning Personalization via Model Agnostic Meta Learning](http://arxiv.org/abs/1909.12488)
+- [Salvaging Federated Learning by Local Adaptation](https://arxiv.org/abs/2002.04758)
+- [Personalized Federated Learning: A Meta-Learning Approach](https://arxiv.org/abs/2002.07948)
+- [Federated Meta-Learning with Fast Convergence and Efficient Communication](http://arxiv.org/abs/1802.07876)
+
+Blog:
+
+- [联邦学习个性化](https://ereebay.me/posts/54199/)
+
+
 ### Deep Learning Framework
+
+#### Pytorch
+
+- [Tutorial](https://pytorch.org/tutorials/)
+- [莫烦教程](https://morvanzhou.github.io/tutorials/machine-learning/torch/)
+
+#### TensorFlow
+
 
 ## Research Track
 
@@ -15,7 +56,7 @@ Reading list for the newbie of DAI
 
 #### Paper:
 
-**Survey**: [Meta-Learning: A Survey](http://arxiv.org/abs/1810.03548)
+Survey: [Meta-Learning: A Survey](http://arxiv.org/abs/1810.03548)
 
 **Initialization Based**:
 
@@ -44,7 +85,7 @@ Metric Based:
 
 #### Other:
 
-**Blog**: [Meta leanring](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
+Blog: [Meta leanring](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 
 ### Transfer Learning & Incremental Learning 
 
