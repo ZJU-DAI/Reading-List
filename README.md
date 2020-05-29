@@ -1,4 +1,5 @@
-# Reading-List
+# Reading List
+
 Reading list for the newbie of DAI
 
 ## Base
@@ -23,7 +24,9 @@ CS231n
 
 ### Federated Learning
 
-#### Base
+#### FAQ
+
+To be continue
 
 #### Personalization
 
@@ -39,7 +42,6 @@ Blog:
 
 - [联邦学习个性化](https://ereebay.me/posts/54199/)
 
-
 ### Deep Learning Framework
 
 #### Pytorch
@@ -49,12 +51,11 @@ Blog:
 
 #### TensorFlow
 
-
 ## Research Track
 
 ### Meta Learning
 
-#### Paper:
+#### Paper
 
 Survey: [Meta-Learning: A Survey](http://arxiv.org/abs/1810.03548)
 
@@ -83,11 +84,11 @@ Metric Based:
 - [Learning to Compare: Relation Network for Few-Shot Learning](http://openaccess.thecvf.com/content_cvpr_2018/papers_backup/Sung_Learning_to_Compare_CVPR_2018_paper.pdf)
 - [Prototypical Networks for Few-shot Learning](http://papers.nips.cc/paper/6996-prototypical-networks-for-few-shot-learning.pdf)
 
-#### Other:
+#### Other
 
 Blog: [Meta leanring](https://lilianweng.github.io/lil-log/2018/11/30/meta-learning.html)
 
-### Transfer Learning & Incremental Learning 
+### Transfer Learning & Incremental Learning
 
 To be continued
 
